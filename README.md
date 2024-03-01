@@ -25,18 +25,18 @@ In Powder Paradise, the goal is to hold on to the jetski as long as possible wit
 
 ## Screenshots
 
-![Screenshot 1](screenshot1.jpg)
-*Figure 1: the menu.*
+![Screenshot 1](Screenshot1.jpg)
+*Figure 1: the menu*
 
-![Screenshot 2](screenshot2.jpg)
-*Figure 2: the settings.*
+![Screenshot 2](Screenshot2.jpg)
+*Figure 2: the main gameplay*
 
 ## Installation and Usage
 
 1. Download and install Processing from the official website (https://processing.org/download/).
-2. Clone this repository () to your local machine or download the source code as a ZIP archive.
+2. Clone this repository (https://github.com/Tokeley/Powder-Paradise.git) to your local machine or download the source code as a ZIP archive.
 3. Open the Processing IDE and load the Powder Paradise project.
-4. Click the "Run" button (or press `Ctrl+R`) to start the game.
+4. Click the "Run ▶️" button (or press `Ctrl+R`) to start the game.
 
 ## Technical challenges
 
