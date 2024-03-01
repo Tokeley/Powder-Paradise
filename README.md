@@ -28,7 +28,7 @@ In Powder Paradise, the goal is to hold on to the jetski as long as possible wit
 ![Screenshot 1](Screenshot1.png)
 *Figure 1: the menu*
 
-![Screenshot 2](Screenshot2.png)
+![Screenshot 2](Screenshot2.jpeg)
 *Figure 2: the main gameplay*
 
 ## Installation and Usage
