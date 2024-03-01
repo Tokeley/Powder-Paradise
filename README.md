@@ -7,9 +7,8 @@ Hit the slopes and tear up some powder with Powder Paradise. Power Paradise is a
 - [Features](#features)
 - [Screenshots](#screenshots)
 - [Installation and Usage](#installation-and-usage)
-- [Software Design Principles](#software-design-principles)
-- [Contributors](#contributors)
-
+- [Technical Challenges](#technical-challenges)
+  
 ## Overview
 
 In Powder Paradise, the goal is to hold on to the jetski as long as possible without hitting an obstacle such as a polar bear, barrier, or rock. Move by using the mouse or trackpad and jump over obstacles with the space bar (which will give you a bonus 5 points). The game has three levels that increase in difficulty for more advanced skiers. See you on the slopes! 
